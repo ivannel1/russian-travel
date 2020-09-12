@@ -1,4 +1,4 @@
-Russia travel
+**Russia travel**
 
 Ссылка на проект: https://ivannel1.github.io/russian-travel/
 
