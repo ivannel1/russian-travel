@@ -1,5 +1,5 @@
 .place__title{
-    font-family: Inter;
+    font-family: Inter,Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: 900;
     font-size: 72px;
@@ -27,5 +27,8 @@
         font-size: 32px;
         line-height: 35px;
         margin:auto;
+        text-align: left;
+        margin-left:16px;
+        margin-right: 16px;
     }
 }

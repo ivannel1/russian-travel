@@ -3,13 +3,25 @@
     width:100%;
     display:flex;
     margin:auto;
-    font-family: Inter;
+    font-family: Inter,Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: 900;
-    font-size: calc(40px + 56 * ((100vw - 320px) / (1280 - 320)));
+    font-size: 96px;
     line-height: 100px;
     color:white;
     text-align: center;
+}
+
+@media screen and (min-width:1280px){
+    .lead__title{
+        font-size:96px;
+    }
+}
+
+@media screen and (max-width:767px){
+    .lead__title{
+        font-size: calc(40px + 56 * ((100vw - 320px) / (1280 - 320)));
+    }
 }
 
 @media screen and (max-width:320px){

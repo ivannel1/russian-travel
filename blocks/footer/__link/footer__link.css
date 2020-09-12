@@ -1,12 +1,11 @@
 .footer__link{
     margin:0;
-    margin-right: 18px;
     color:white;
     text-decoration:none;
 }
 
-.footer__link:last-of-type{
-    margin-right: 0;
+.footer__link:hover{
+    opacity: 0.8;
 }
 
 @media screen and (max-width:320px){
@@ -15,8 +14,5 @@
         margin-right: 0;
         font-size: 24px;
         line-height: 24px;
-    }
-    .footer__link:last-of-type{
-        margin-bottom: 0;
     }
 }
