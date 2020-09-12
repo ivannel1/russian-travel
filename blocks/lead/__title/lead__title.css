@@ -1,6 +1,5 @@
 .lead__title{
     max-width: 720px;
-    max-height: 200px;
     width:100%;
     display:flex;
     margin:auto;
@@ -20,3 +19,4 @@
         line-height: 44px;
     }
 }
+

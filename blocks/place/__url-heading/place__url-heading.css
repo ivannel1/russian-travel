@@ -9,10 +9,3 @@
     color: #AAAAAA;
     letter-spacing: 0.2em;
 }
-
-@media screen and (max-width:320px){
-    .place__url-heading{
-        font-size: 0;
-        line-height: 0;
-    }
-}

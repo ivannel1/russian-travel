@@ -1,8 +1,5 @@
 .lead__image{
     max-width: 984px;
-    max-height: 615px;
-    min-width: 320px;
-    min-height: 200px;
     object-fit: fill;
     width:100%;
 }
