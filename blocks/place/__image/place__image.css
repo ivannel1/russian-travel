@@ -3,14 +3,50 @@
     width: 100%;
 }
 
+@media screen and (max-width:1152px){
+    .place__image{
+        max-width: 450px;
+    }
+}
+
 @media screen and (max-width:1024px){
     .place__image{
         max-width: 440px;
     }
 }
 
+@media screen and (max-width:880px){
+    .place__image{
+        max-width: 390px;
+    }
+}
+
 @media screen and (max-width:768px){
     .place__image{
         max-width: 340px;
+    }
+}
+
+@media screen and (max-width:692px){
+    .place__image{
+        max-width: 270px;
+    }
+}
+
+@media screen and (max-width:600px){
+    .place__image{
+        max-width: 220px;
+    }
+}
+
+@media screen and (max-width:496px){
+    .place__image{
+        max-width: 180px;
+    }
+}
+
+@media screen and (max-width:464px){
+    .place__image{
+        max-width: 320px;
     }
 }

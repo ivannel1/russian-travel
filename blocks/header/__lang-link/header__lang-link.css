@@ -1,6 +1,7 @@
 .header__lang-link{
     color:white;
     margin-right:0;
+    margin-left:18px;
     font-family: Inter,Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: normal;
@@ -10,7 +11,7 @@
 }
 
 .header__lang-link:nth-of-type(1){
-    margin-right:18px;
+    margin-left:0;
 }
 
 .header__lang-link:hover{
