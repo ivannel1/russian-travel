@@ -17,3 +17,15 @@
         font-size: 16px;
     }
 }
+
+@media screen and (max-width:560px){
+    .place__paragraph{
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width:464px){
+    .place__paragraph{
+        font-size:14px;
+    }
+}
