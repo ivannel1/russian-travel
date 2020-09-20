@@ -24,9 +24,21 @@
     }
 }
 
-@media screen and (max-width:768px){
+@media screen and (max-width:880px){
+    .place{
+        grid-column-gap:30px;
+    }
+}
+
+@media screen and (max-width:850px){
     .place{
         grid-column-gap:28px;
+    }
+}
+
+@media screen and (max-width:590px){
+    .place{
+        grid-column-gap:15px;
     }
 }
 
